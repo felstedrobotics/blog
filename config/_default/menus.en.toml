@@ -1,0 +1,11 @@
+[[main]]
+none = "none"
+
+[[footer]]
+none = "none"
+
+[[footer]]
+name = "base-footer"
+pageRef = "https://github.com/felsted_robotics"
+identifier = "U2EYei5dWc"
+weight = 9999
