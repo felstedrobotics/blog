@@ -32,3 +32,6 @@ package-lock.json
 
 # Ignore public
 public/
+
+# Images
+images/HEIC
