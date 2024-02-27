@@ -1,11 +1,15 @@
 [[main]]
-none = "none"
+name = "Posts"
+url = "/posts"
+weight = 10
+
+[[main]]
+name = "Github"
+pre = "github"
+url = "https://github.com/felstedrobotics"
+weight = 30
 
 [[footer]]
-none = "none"
-
-[[footer]]
-name = "base-footer"
-pageRef = "https://github.com/felsted_robotics"
+name = "Felsted Robotics"
 identifier = "U2EYei5dWc"
 weight = 9999
