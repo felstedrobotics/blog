@@ -8,7 +8,7 @@ Jack Cooke:
 Jack Cooke's robotics roots date back to year 8 where he competed in many pyhsics in engineering competitions. Reaching the finals in many tournments. Jack is a profient coder in many languages earning the nickname, "Coder Cooke".
 
 Freya Perry:
-Likewise to Jack, Freya comes from physics backgrounds and has competited in many national competitions. Freya specialises in Design and Technology. Her knowledge around CAD is expansive and she is a great artist.
+Likewise to Jack, Freya comes from physics backgrounds and has competited in many national competitions, winning three of them. Freya specialises in Design and Technology. Her knowledge around CAD is expansive and she is a great artist.
 
 Gabriel Svensson:
 Gabriel is a taleted mathmaticion currently breezing through a further maths A levels. A sharp mind and great problem solver, Gabriel is a strong addition to any robotics team.
